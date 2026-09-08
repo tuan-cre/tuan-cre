@@ -1,10 +1,10 @@
 # tuan-cre
 
-An Giang University student. I daily-drive Arch + Hyprland and build small tools I actually use.
+An Giang University graduate. I daily-drive Arch + Hyprland and build small tools I actually use.
 
 ```sh
 $ whoami
-le-hoang-tuan — DTH225757
+le-hoang-tuan
 $ uname -r; hyprctl version | head -1
 7.2.3-arch1-3
 Hyprland 0.56.2
