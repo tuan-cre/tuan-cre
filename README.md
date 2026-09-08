@@ -25,4 +25,4 @@ LOQ 15IRH8 / i5-13420H / RTX 4050 / 15" 144Hz
 
 Arch, Hyprland 0.56.2, zsh, Waybar. Dotfiles-driven — start from my config, not screenshots.
 
-No stats cards, no badges. Pinned repos above are the portfolio.
+No stats cards, no badges. Pinned below are the same six.
